@@ -1,4 +1,4 @@
-# ipskipper_0.1-alpha
+# ipskipper_0.2-alpha
 
 INSTALL PYTHON(https://www.python.org/) BEFORE USE
 
